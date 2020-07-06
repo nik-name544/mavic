@@ -1,0 +1,39 @@
+@mixin light {
+    font-family: "SFProDisplay-Light";
+    font-weight: 300;
+}
+
+@mixin reg {
+    font-family: "SFProDisplay-Regular";
+    font-weight: 400;
+}
+
+@mixin medi {
+    font-family: "SFProDisplay-Medium";
+    font-weight: 500;
+}
+
+@mixin semi {
+    font-family: "SFProDisplay-Semibold";
+    font-weight: 600;
+}
+
+@mixin bold {
+    font-family: "SFProDisplay-Bold";
+    font-weight: 700;
+}
+
+@mixin ulight {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+
+@mixin umedi {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}
+
+@mixin ubold {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
