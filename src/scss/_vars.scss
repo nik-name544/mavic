@@ -28,6 +28,11 @@
     font-weight: 300;
 }
 
+@mixin ureg {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+}
+
 @mixin umedi {
     font-family: 'Ubuntu', sans-serif;
     font-weight: 500;
